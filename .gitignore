@@ -1,0 +1,23 @@
+# 参考素材/大文件
+Asset/
+
+# 依赖
+node_modules/
+
+# 构建产物
+dist/
+build/
+.next/
+.cache/
+
+# 环境变量
+.env
+.env*.local
+
+# IDE
+.vscode/
+.idea/
+
+# 系统文件
+Thumbs.db
+.DS_Store
